@@ -11,7 +11,7 @@ Personal learning plans (concepts + action items per day):
 
 - Split by area, not by frontend/backend, so both of us understand the whole system.
 - Each area has an **owner**, who goes deep on it and has to be able to explain it without notes.
-- Learn first: the owner passes the concept self-tests in their learning plan before writing code in this repo.
+- Learn while building: when a new concept comes up, get a short elevator explanation (what it is, why PRism needs it, one gotcha), then implement it right away. No separate study sessions or tests.
 - At the end of each day, each of us explains the *other's* area on a whiteboard or call. If we can't, we go over it again before moving on.
 - One branch per area (`<name>/<area>`, e.g. `atharva/ingest`), small PRs to `main`, the other person reviews. Merge often.
 - Shared contracts (`packages/core`: DB models, schemas, settings) only change when we both agree.

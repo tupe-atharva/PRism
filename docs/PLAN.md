@@ -4,8 +4,9 @@ PRism is a GitHub App. It triages new PRs and issues with a team of AI agents (s
 
 All hosting, data and LLM services run on **Vultr**. See [ARCHITECTURE.md](ARCHITECTURE.md) for the stack.
 
-Personal learning plans (concepts + action items per day):
-- Atharva: [learning/atharva-plan.md](learning/atharva-plan.md)
+Personal plans (milestones + sequential action items):
+- Atharva: [plan_atharva.md](plan_atharva.md)
+- Om: [plan_om.md](plan_om.md)
 
 ## How we work
 
